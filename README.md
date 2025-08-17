@@ -46,4 +46,4 @@ The data was sourced from the **U.S. Energy Information Administration (EIA) API
 
 ---
 
-📄 For a detailed walkthrough of the analysis, including all visualizations and insights, please see the **[Full Project Report (PDF)](link/to/your/report.pdf)**.
+📄 For a detailed walkthrough of the analysis, including all visualizations and insights, please see the **[Full Project Report (PDF)](https://drive.google.com/file/d/1hHqI48-KZixo6oA7gLQNY3F3Q_V_1WPp/view)**.
